@@ -1,0 +1,1 @@
+Route: 1, type: 5, destination: gomel, departure: 13:00, arrival: 14:00
